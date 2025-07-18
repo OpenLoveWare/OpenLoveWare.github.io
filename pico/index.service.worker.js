@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1752847901|10414449143';
+const CACHE_VERSION = '1752848274|21838970';
 /** @type {string} */
 const CACHE_PREFIX = 'Piko-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
